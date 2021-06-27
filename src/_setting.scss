@@ -2,8 +2,15 @@
 
 $gap: 10px;
 
+// eight : appbar + boardbar + boardContent = 100vh
+$navbar-app-height: 5vh;
+$navbar-board-height: 6vh;
+$board-content-height: 88vh;
+
 //color
-$board-bg-color: #50B5C7;
+// $board-bg-color: #50B5C7;
+$board-bg-color: powderblue;
+// $board-bg-color: rgb(122, 218, 233);
 
 //screen
 $screen-lg: 1201px;
